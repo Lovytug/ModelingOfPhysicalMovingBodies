@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\source\\repos\\ModelingOfPhysicalMovingBodies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FF3929-871B-4802-9117-B74358867BC2}|ModelingOfPhysicalMovingBodies\\ModelingOfPhysicalMovingBodies.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\source\\repos\\ModelingOfPhysicalMovingBodies\\ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3FF3929-871B-4802-9117-B74358867BC2}|ModelingOfPhysicalMovingBodies\\ModelingOfPhysicalMovingBodies.vcxproj|solutionrelative:ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\source\\repos\\ModelingOfPhysicalMovingBodies\\ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp",
+              "RelativeDocumentMoniker": "ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\source\\repos\\ModelingOfPhysicalMovingBodies\\ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp",
+              "RelativeToolTip": "ModelingOfPhysicalMovingBodies\\InterfaceWindow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T12:14:19.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
