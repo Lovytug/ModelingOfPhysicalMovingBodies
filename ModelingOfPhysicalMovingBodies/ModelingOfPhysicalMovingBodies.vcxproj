@@ -93,6 +93,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ManagerObject.cpp" />
+    <ClCompile Include="MethodRungaKutta4.cpp" />
     <ClCompile Include="MovableBall.cpp" />
     <ClCompile Include="ObstaclePolygon.cpp" />
     <ClCompile Include="ObstacleSphere.cpp" />
@@ -105,6 +106,7 @@
   <ItemGroup>
     <ClInclude Include="DynamicObject.h" />
     <ClInclude Include="ManagerObject.h" />
+    <ClInclude Include="MethodRungaKutta4.h" />
     <ClInclude Include="MovableBall.h" />
     <ClInclude Include="ObstaclePolygon.h" />
     <ClInclude Include="ObstacleSphere.h" />

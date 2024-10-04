@@ -52,6 +52,9 @@
     <ClCompile Include="ObstaclePolygon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MethodRungaKutta4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ManagerObject.h">
@@ -70,6 +73,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ObstaclePolygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MethodRungaKutta4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
